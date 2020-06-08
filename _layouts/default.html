@@ -23,7 +23,7 @@
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v4.0&appId=206648572770328&autoLogAppEvents=1"></script>
 <header class="page-header" role="banner" style="background-image: url('{{page.image}}'); background-size: cover; background-position: center">
-    <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    <h1 class="project-name" style="text-shadow: 2px 2px black;">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     <h2 class="project-tagline" style="background-color: hsla(0, 0%, 0%, 0.3); opacity: 1;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 </header>
 
