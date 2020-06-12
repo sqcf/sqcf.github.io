@@ -53,6 +53,10 @@ The Steering Committee is not obliged to provide advance notice of the meeting t
 member whose membership is to be debated, and the decision of the Steering Committee is
 final.
 
+Non-voting Associate Membership may be offered to those who do not meet the eligibility criteria
+for full membership, but who can demonstrate an ongoing interest in the future of The Quays, and
+who subscribe to the Forum&#39;s objectives
+
 ## The Steering Committee
 The affairs of The Forum shall be conducted by a Steering Committee which shall consist of
 the Officers and co-opted members.
@@ -124,7 +128,8 @@ Proposed changes to the constitution shall be sent to the Secretary at least 14 
 the AGM, who shall circulate them at least 7 days before an AGM.
 All Members have the right to vote at the AGM.
 
-The quorum for AGMs will be ten per cent of the membership.
+The quorum for AGMs and EGMs will be ten per cent of the membership or 20 members,
+whichever is the lower
 Decisions will be made by a simple majority of the Members present and voting may be
 done by ballot or a show of hands.
 The Chair of The Forum shall hold a deliberative as well as a casting vote at General
@@ -158,6 +163,8 @@ Association acting through the Committee in the name of the Association’s memb
 be without liability or responsibility on the part of the Committee for any loss or damage.
 Members should take independent professional advice in all matters affecting their interests
 or where possible conflict could arise between members.
+The Forum cannot accept liability for personal injury etc, and all members attend any
+events or activity organised by the Forum at their own risk
 
 ## Declaration
 Salford Quays Community Forum hereby adopts and accepts this constitution as a current
